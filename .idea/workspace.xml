@@ -5,23 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b41bab2b-029c-4627-afbe-8176c319415f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionFramework/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandling/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandling/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaKeywords/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaKeywords/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaKeywords/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaKeywords/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionFramework/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionFramework/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FileHandling/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FileHandling/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FileHandling/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FileHandling/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FileHandling/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FileHandling/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedListHashsetHashmap/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedListHashsetHashmap/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedListHashsetHashmap/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedListHashsetHashmap/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedListHashsetHashmap/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedListHashsetHashmap/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedListHashsetHashmap/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedListHashsetHashmap/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedListHashsetHashmap/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReadingFiles/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReadingFiles/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReadingFiles/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,20 +53,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.CollectionFramework.Test1">
-    <configuration name="CollectionFramework.Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionFramework.Test1" />
+}</component>
+  <component name="RunManager" selected="Application.ReadingFiles.Test1">
+    <configuration name="ReadingFiles.Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReadingFiles.Test1" />
       <module name="Week 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionFramework.*" />
+          <option name="PATTERN" value="ReadingFiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedListHashsetHashmap.Task4" />
+      <module name="Week 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedListHashsetHashmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,11 +88,11 @@
       </method>
     </configuration>
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaKeywords.Test1" />
+      <option name="MAIN_CLASS_NAME" value="FileHandling.Test1" />
       <module name="Week 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaKeywords.*" />
+          <option name="PATTERN" value="FileHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,11 +101,24 @@
       </method>
     </configuration>
     <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.Test2" />
+      <option name="MAIN_CLASS_NAME" value="FileHandling.Test2" />
       <module name="Week 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExceptionHandling.*" />
+          <option name="PATTERN" value="FileHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileHandling.Test3" />
+      <module name="Week 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FileHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,9 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CollectionFramework.Test1" />
+        <item itemvalue="Application.ReadingFiles.Test1" />
+        <item itemvalue="Application.Test3" />
         <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Task4" />
       </list>
     </recent_temporary>
   </component>
