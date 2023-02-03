@@ -18,6 +18,7 @@ public class Task1 {
     Products list (ascending order)*/
     public static void main(String[] args) {
         ArrayList<Product> products = new ArrayList<>();
+        ArrayList<String> pname = new ArrayList<>();
         Product p = new Product();
         Scanner sc = new Scanner(System.in);
         int totalSum = 0;
@@ -25,6 +26,7 @@ public class Task1 {
         while(isMoreItem) {
             System.out.println("Enter product name");
             p.title = sc.next();
+            pname.add(p.title);
             System.out.println("Enter product price");
             p.price = sc.nextInt();
             totalSum+=p.price;
@@ -41,8 +43,8 @@ public class Task1 {
         }
 
         System.out.println("Total Bill: "+totalSum);
-
-
+        Collections.sort(pname);
+        System.out.println(pname);
     }
 }
 

@@ -10,9 +10,10 @@ public class Task2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         HashMap<Integer,String> map = new HashMap<>();
-        System.out.println("Enter 5 subject marks");
+//        System.out.println("Enter 5 subject marks");
         String result=null;
         for (int i=0;i<5;i++) {
+             System.out.print("Enter subject "+(i+1)+" marks: ");
              int marks = sc.nextInt();
              if (marks > 45) {
                  result="Pass";
@@ -22,7 +23,6 @@ public class Task2 {
              }
              map.put(marks,result);
         }
-
         System.out.println(map);
     }
 }

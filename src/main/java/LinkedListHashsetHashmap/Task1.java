@@ -17,7 +17,6 @@ public class Task1 {
             int length = s.length();
             map.put(s,length);
         }
-
         System.out.println(map);
     }
 }
